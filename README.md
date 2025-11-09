@@ -3,6 +3,8 @@
 A **Full Stack AI Creator Platform CMS** built with **Next.js 15**, **React 19**, **Tailwind CSS**, **Convex**, **Clerk Authentication**, **React Quill**, **ImageKit**, and **Shadcn UI**.  
 This platform allows creators to write, edit, and publish AI-enhanced content with a seamless and modern interface.
 
+🔗 **Live Project:** [https://ai-creatorr.vercel.app](https://ai-creatorr.vercel.app)
+
 ---
 
 ## 🚀 Features
